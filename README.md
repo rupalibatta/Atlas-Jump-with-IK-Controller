@@ -37,7 +37,6 @@ The report demonstrates squat and basic jump motions, a wide-stance frog jump, j
 | [`ME133a_FINAL_REPORT.pdf`](ME133a_FINAL_REPORT.pdf) | Project description, demonstrations, joint plots, and original code appendix |
 | [`README.md`](README.md) | Project overview |
 
-The two Python files were reconstructed from the report's PDF appendix, whose code formatting was corrupted. They require the original course ROS 2 utilities (`hw5code`) and Atlas URDF environment; execution has not been validated against that environment.
 
 ## Authors
 
