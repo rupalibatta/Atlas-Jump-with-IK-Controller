@@ -26,7 +26,7 @@ A secondary joint-posture correction is projected through $(I-J^\dagger J)$ to e
 
 The report demonstrates squat and basic jump motions, a wide-stance frog jump, jumps with one foot initially raised, a half-spin jump, and a second-position pirouette. Joint trajectories from four consecutive basic jumps were reported as smooth and approximately parabolic. These are kinematic animations with prescribed gravity, rather than a full center-of-mass or contact-dynamics simulation.
 
-**[Final demonstration video](https://tinyurl.com/me133jump)**
+**[Final demonstration video](https://tinyurl.com/me133ajump)**
 
 ## Repository contents
 
